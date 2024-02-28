@@ -6,3 +6,5 @@ cntri + / коммент
 f12 элементы (на сайте можно увидеть)
 article > h
 nav ссылка
+ссылка <a href="https:\\Google.com"> с сайта не уходит
+<a href="https:\\Google.com" target="_blank"> новый сайт
