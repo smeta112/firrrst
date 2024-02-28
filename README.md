@@ -1,1 +1,1 @@
-goo.su\front
+goo.su/front
