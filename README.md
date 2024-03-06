@@ -31,3 +31,13 @@ nav ссылка
                 <a href=""tel:375291234567>
                     &#128276; 375-(29)-123-45-67
                 </a>
+посмотри двоичную, 16-ручную системы      
+.wrapper =><div class="wrapper"></div> ctrl+alt+w .wrapper
+выделить 35 наверху ul>li*  enter
+bgc
+ w8
+по тексту .wrapper{
+    width: 800px;
+    background-color: #a1dfe5c3;
+    margin: 15px auto;
+}
