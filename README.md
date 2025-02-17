@@ -1,7 +1,7 @@
 goo.su/front
 списки li*3 enter <li></li><li></li><li></li>
 alt + z выравнивание
-по точкам ul
+по точкам ul  <ul></ul><ul></ul><ul></ul>
 cntri + / коммент
 f12 элементы (на сайте можно увидеть)
 article > h
